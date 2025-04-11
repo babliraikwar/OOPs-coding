@@ -1,0 +1,9 @@
+Polymorphism
+--------------------------------------------------------------
+types
+
+->compile time Polymorphism
+   1. method overloading
+   2. operator overloading
+-> runtime Polymorphism
+   1. method overring 
